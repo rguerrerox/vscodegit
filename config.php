@@ -1,5 +1,0 @@
-<?php
-
-$servidor = "";
-$usuario = "";
-$contrasena = "";
